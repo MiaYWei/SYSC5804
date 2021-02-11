@@ -10,4 +10,4 @@ What are V2V, V2I, V2X and C-V2X communications? Write a real code (of your own 
 language) or pseudo code to do the automatic switching for at least one application in between
 at least two methods of the communications.
 
-*task_manager.cs is the solution of Assignment#2-Q2
+* task_manager.cs is the solution of Assignment#2-Q2
